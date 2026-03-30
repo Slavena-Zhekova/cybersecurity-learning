@@ -36,22 +36,22 @@ To understand how a website loads step-by-step:
 
 ##  Screenshots Description
 
-### 🔹 DNS Analysis
+###  DNS Analysis
 
 * **DNS lookup using nslookup (domain → IP)**
 * **DNS query and response for google.com (A and AAAA records)**
 
-### 🔹 ICMP (Ping)
+###  ICMP (Ping)
 
 * **ICMP connectivity test using ping**
 * **ICMP echo request and echo reply traffic in Wireshark**
 
-### 🔹 TCP Analysis
+###  TCP Analysis
 
 * **TCP 3-way handshake: SYN → SYN-ACK → ACK**
 * Connection established between client and server
 
-### 🔹 HTTP / HTTPS Analysis
+###  HTTP / HTTPS Analysis
 
 * **HTTP/HTTPS requests using curl**
 * **HTTP GET request and 301 redirect response**
