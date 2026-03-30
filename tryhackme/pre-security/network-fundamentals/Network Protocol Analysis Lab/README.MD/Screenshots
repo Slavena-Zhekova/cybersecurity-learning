@@ -1,0 +1,35 @@
+ Network Protocol Analysis Lab
+
+This project demonstrates how core network protocols work in practice by capturing and analyzing real traffic using Wireshark.
+
+The lab covers:
+
+DNS (Domain Name System)
+ICMP (Ping)
+TCP (3-way handshake)
+HTTP / HTTPS communication
+🎯 Objective
+
+To understand how a website loads step-by-step:
+
+DNS resolves a domain name to an IP address
+ICMP verifies connectivity
+TCP establishes a reliable connection
+HTTP/HTTPS transfers data
+🛠️ Tools Used
+Kali Linux
+Wireshark
+curl
+nslookup / dig
+ping
+
+Screenshots
+
+Screenshots included in the /screenshots folder:
+
+DNS lookup (nslookup)
+DNS packets in Wireshark
+ICMP ping (terminal + Wireshark)
+TCP handshake (SYN, SYN-ACK, ACK)
+HTTP request and response
+HTTPS TLS handshake
